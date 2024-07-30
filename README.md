@@ -14,6 +14,8 @@
 </a>
 -->
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamaleff&layout=compact&langs_count=7&theme=dark"/>
+
 ![image](https://user-images.githubusercontent.com/53325812/229588390-8c6fc49f-64f2-454d-b5ab-c3c9b2a51d33.png)
 
 <div align="center">  
