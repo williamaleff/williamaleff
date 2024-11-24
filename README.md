@@ -1,5 +1,7 @@
 ### Hi! I am William Alefe 👋
- A developer in search of constant learning and challenges
+ Experience in development with WEB, Purchasing, Inventory and Financial modules. Configurator and VS handling CODE. Analysis, planning, data migration, exchange of EDI files, parameterization, customizations (routines, tables, reports, screens, entry points, triggers).
+Understanding of the Microsoft environment (Windows Server, SQL Server, Office) and knowledge of MS-SQL databases, MySQL, Postgresql, PROTHEUS and ADVPL.
+Higher Education in Systems Analysis and Development
 
 ##
 
