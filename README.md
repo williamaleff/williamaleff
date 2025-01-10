@@ -1,8 +1,7 @@
 ### Hi! I am William Alefe 👋
- Experience in development with WEB, Purchasing, Inventory and Financial modules. Configurator and VS handling CODE. Analysis, planning, data migration, exchange of EDI files, parameterization, customizations (routines, tables, reports, screens, entry points, triggers).
-Understanding of the Microsoft environment (Windows Server, SQL Server, Office) and knowledge of MS-SQL databases, MySQL, Postgresql, PROTHEUS and ADVPL.
-Higher Education in Systems Analysis and Development
-
+ Proficient in Node.js, React.js, TypeScript, and Spring Boot, with hands-on experience in developing modules for Procurement, Inventory, and Financial Management. Skilled in configuring and utilizing VS Code and similar tools. 
+Expertise in data analysis, planning, migration, EDI file exchange, parameterization, and customizations, including routines, tables, reports, screens, entry points, and triggers.
+Strong knowledge of databases, including MS SQL, MySQL, MongoDB, PostgreSQL, and MariaDB. Holds a Bachelor’s degree in Systems Analysis and Development.
 ##
 
 <div align="center">
