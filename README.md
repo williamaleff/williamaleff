@@ -1,5 +1,5 @@
 ### Hi! I am William Alefe 👋
- Proficient in Node.js, React.js, TypeScript, and Spring Boot, with hands-on experience in developing modules for Procurement, Inventory, and Financial Management. Skilled in configuring and utilizing VS Code and similar tools. 
+ Proficient in Python, Node.js, React.js, TypeScript, and Spring Boot, with hands-on experience in developing modules for Procurement, Inventory, and Financial Management. Skilled in configuring and utilizing VS Code and similar tools. 
 Expertise in data analysis, planning, migration, EDI file exchange, parameterization, and customizations, including routines, tables, reports, screens, entry points, and triggers.
 Strong knowledge of databases, including MS SQL, MySQL, MongoDB, PostgreSQL, and MariaDB. Holds a Bachelor’s degree in Systems Analysis and Development.
 ##
